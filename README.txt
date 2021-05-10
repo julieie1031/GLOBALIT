@@ -2,4 +2,4 @@
 *공지*
 상품 목록
 1. outer
-2. onepice
+2. dress
